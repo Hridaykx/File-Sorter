@@ -1,6 +1,6 @@
 import os, shutil
 
-path = r"C:/Users/hrida/html_css_course/"
+path = r"local path"
 file_name = os.listdir(path)
 folder_names = ['indices', 'stylesheets', 'scripts']
 
